@@ -1,10 +1,7 @@
 1. Unzip File
 2. Copy "ToolsApp" Folder to "C:" Path
 3. Run setup from "Note-Taker-main\Note Taker\Debug"
-#
-#
-#
-#
+
 If Windows Defender Blocks the Application do theese steps: 
 --> Settings 
 --> Privacy And Security 
