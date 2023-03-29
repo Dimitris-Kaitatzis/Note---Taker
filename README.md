@@ -1,2 +1,10 @@
 # Note-Taker
-Application for Notes. You can save your notes on local Data Base or use the Application as a Notepad to write and edit notes!
+If Windows Defender Blocks the Application do theese steps:
+--> Settings
+--> Privacy And Security
+--> Windows Security
+--> Virous & Threat protection
+--> Management Settings
+--> Add or Remove Exception
+--> Add exception(choose folder option)
+--> Choose the Folder Path of the application
